@@ -1,4 +1,4 @@
-package example8;
+package com.shimizukenta.secs.examples.example8;
 
 import java.io.IOException;
 import java.io.PrintWriter;

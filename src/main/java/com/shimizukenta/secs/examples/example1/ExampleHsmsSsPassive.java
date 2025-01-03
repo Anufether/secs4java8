@@ -1,4 +1,4 @@
-package example1;
+package com.shimizukenta.secs.examples.example1;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

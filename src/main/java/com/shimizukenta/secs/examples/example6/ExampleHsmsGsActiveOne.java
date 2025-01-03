@@ -1,4 +1,4 @@
-package example6;
+package com.shimizukenta.secs.examples.example6;
 
 import java.io.IOException;
 import java.io.PrintWriter;

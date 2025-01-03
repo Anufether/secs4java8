@@ -1,4 +1,4 @@
-package example3;
+package com.shimizukenta.secs.examples.example3;
 
 import java.util.Arrays;
 import java.util.List;

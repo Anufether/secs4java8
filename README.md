@@ -126,7 +126,7 @@ How to convert TCP/IP <-> RS232C
     );                                      /* >.                       */
 ```
 
-See also ["/src/examples/example3/ExampleBuildSecs2.java"](/src/examples/example3/ExampleBuildSecs2.java)
+See also ["/src/examples/example3/ExampleBuildSecs2.java"](/com/shimizukenta/secs/examples/example3/ExampleBuildSecs2.java)
 
 2. Send Primary-Message
 
@@ -214,7 +214,7 @@ See also ["/src/examples/example3/ExampleBuildSecs2.java"](/src/examples/example
 | optionalDouble     | ✓ |   |   | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | optionalNumber     | ✓ |   |   | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
-See also ["/src/examples/example4/ExampleGetSecs2Value.java"](/src/examples/example4/ExampleGetSecs2Value.java)
+See also ["/src/examples/example4/ExampleGetSecs2Value.java"](/com/shimizukenta/secs/examples/example4/ExampleGetSecs2Value.java)
 
 3. Send Reply-Message
 
@@ -470,4 +470,4 @@ TimeFormat (A[12] or A[16]) can be set from `AbstractSecsCommunicatorConfig#gem#
     Secs2 dataId = passive.gem().autoDataId();
 ```
 
-See also ["/src/examples/example5/ExampleGem.java"](/src/examples/example5/ExampleGem.java)  
+See also ["/src/examples/example5/ExampleGem.java"](/com/shimizukenta/secs/examples/example5/ExampleGem.java)  
